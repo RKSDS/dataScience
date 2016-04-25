@@ -1,0 +1,11 @@
+email id to be used for commits
+
+git config --global user.name "your user name"
+git config --global user.email	"your email id"
+
+git config --list -> list all the git config
+
+
+git init -> initializes a folder to be used in an git environment.
+
+git remote add origin "link to use as origin for git.git"
