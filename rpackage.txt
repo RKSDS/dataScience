@@ -1,0 +1,9 @@
+a <- available.packages()
+
+head(rownames(a), 3)
+
+The above command executed in R console will show the first 3 packages of many available on CRAN.
+
+For bigdata or biological projects Bioconductor Project can be used.
+
+
