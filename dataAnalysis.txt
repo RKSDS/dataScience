@@ -1,0 +1,31 @@
+Types of Data Science Questions
+
+In order of difficulty
+
+Descriptive
+
+Exploratory
+
+Inferential
+
+Predictive
+
+Causal
+
+Mechanistic
+
+Descriptive Analysis:
+
+	It is to describe a set of data and not to make any kind of discition out of that.
+
+	This is commonly applied to census data.
+
+	The description and interpretation are different steps.
+
+	The desciption of the data can not be generalized without additional statistical modeling.
+
+	This could also be seen as putting data in the form of graph/picture which would describe how the data(subject) varied wrt to other parameter.
+
+Exploratory Analysis:
+
+	Its goal is to find relationships (that is unknown) between data and parameters on which the data was collected.
