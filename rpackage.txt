@@ -1,0 +1,38 @@
+a <- available.packages()
+
+head(rownames(a), 3)
+
+The above command executed in R console will show the first 3 packages of many available on CRAN.
+
+For bigdata or biological projects Bioconductor Project can be used.
+
+When R is installed the base R is installed.
+
+wtih packages the functionallity can be increased.
+
+To install a package install.package("package_name") is used.
+
+If the package which has been requested to install requires/depends on any other package(s) they are also installed.
+
+To install multiple packages simultaneously install.packages(c("package_name_1", "package_name_2", "package_name_3")) can be used.
+
+Using UI also the packages can be installed.
+
+If the package is to be installed from bioconductor the following commands help:
+
+To get basic installer and basic set of R packages for bioconductor
+
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+
+To install extra packages..
+
+biocLite(c("bioC_name1", "bioc_name2"))
+
+Packages when installed are not readily available for use. To make it available for use "library(package_name)" should be used.
+
+After loading a package using search() method will give all the methods attached with the package
+
+To build R packages in WINDOWS RTools are required. If linux or Mac is being used.. this is not necesasry.
+
+
