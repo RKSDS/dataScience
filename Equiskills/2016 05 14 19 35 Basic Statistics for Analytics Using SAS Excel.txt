@@ -1,0 +1,28 @@
+Statistics :- 
+	1. It is analysis of Data.
+	2. Mathematical Concept
+	3. Can be used to make corporate decisions
+
+Data and Variable:
+	Data is a set of values of qualitative and quantitative variables that are of interest in a study.
+	
+	Variables are those aspects which affect an experiment and/or its result. It could be input and/or output for an experiment.
+
+	2 types of variables :
+		a) Numeric (Anything that can be measured and represented in number/quantity)
+			I - Continuous :- temp, height (can take any value between a permitted range)
+			II - Discrete :- number of kids(Whole values with a permitted range )
+		b) Categorical (Qualitative values)
+			I  - Ordinal :- Types of size (small, medium, Large), Types of temp(hot, mild, cold) - those categories which basically these can be ordered
+			II - Nominal :- Gender(Male & Female), PinCode - These are categories but there is no order as such.
+
+Sample and Population:
+	Population is all the subjects in an experiment.
+	Sample is a subset of population.
+
+	Data collected from all the sujects (population) in an experiment is called census.
+
+	To collect data or study the complete population could be highly expensive(cost, effort, time), error prone. That is why a sample is choosen for the study/experiment and inference is drawn about the whole population from the study. This is called inferential study -> statistics.
+
+	When the whole population/Sample is considered and the data is used to summarize the population it is called Descriptive Statistics. It Describes the data as in what is the center of the data, how much the data is varies from the center etc.
+

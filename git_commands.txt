@@ -10,6 +10,8 @@ git init -> initializes a folder to be used in an git environment.
 
 git remote add origin "link to use as origin for git.git"
 
+git clone <repo address> <to clone on folder_name>
+
 git add . -> adds all the new file in the folder
 
 git add -u -> updates the changes done to the files which are being tracked by git
@@ -23,5 +25,3 @@ gti checkout -b branchname -> creates a branch and moves the user to that branch
 git branch -> lists all the branches created locally..
 
 git checkout master -> switches the user to master branch
-
-
