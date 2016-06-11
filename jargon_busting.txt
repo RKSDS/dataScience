@@ -1,0 +1,26 @@
+Data-Mining : Non-trivial extraction of IMPLICIT(Not direct), PREVIOUSLY UNKNOWN and POTENTIALLY USEFUL information from data is called Data mining.
+
+Machine Learning : Making machines learn feeding known information/data so that the machine can predict what will be output of some input data.
+
+Types of Data Analysis:
+
+1) Descriptive : Describing/Summarizing the data (Mostly Numerical/ordinal result is drawn)
+2) Exploratory: New features in the data are discovered.
+3) Confirmatory: Analysis done to confirm a hypothesis
+4) Predictive: Past patterns are understood and the future results are predicted using the understanding.
+
+For example to analyse a case of Disease Outbreak
+
+Descriptive Analysis will tell in which location how many people were affected and that could be marked as highly prone area and for future epidemics.
+(Geographical Spread of FLU.)
+
+A corelation between two set of data which could be related(this becaomes our hypothesis and this could be right or wrong), might reveal the cause. This kind of analysis will fall in Exploratory Analysis. Eg. looking at chat of FLU affected area and Vaccine distribution in those areas might tell late vaccine distribution is the cause of epidemic in those areas.
+
+Exploratory Analysis also requires understanding and finding out if there is any issue with the data
+or the process by which it was collected. This might lead to formulating initial hypothesis. :w
+
+Confirmative Analysis: In this study usually the two parameters taken in Eploratory analysis can be taken to study the relationship and provide the proof for the exploratory analysis.
+
+Predictive analysis: This is mostly study of causal and correlation between the causes of an event. This study would give insight of how the event can be controlled as we want in future.
+
+
