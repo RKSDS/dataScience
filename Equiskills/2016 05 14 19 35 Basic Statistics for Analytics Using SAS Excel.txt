@@ -1,11 +1,11 @@
-Statistics :- 
+Statistics :-
 	1. It is analysis of Data.
 	2. Mathematical Concept
 	3. Can be used to make corporate decisions
 
 Data and Variable:
 	Data is a set of values of qualitative and quantitative variables that are of interest in a study.
-	
+
 	Variables are those aspects which affect an experiment and/or its result. It could be input and/or output for an experiment.
 
 	2 types of variables :
@@ -26,3 +26,16 @@ Sample and Population:
 
 	When the whole population/Sample is considered and the data is used to summarize the population it is called Descriptive Statistics. It Describes the data as in what is the center of the data, how much the data is varies from the center etc.
 
+Types of Data Analysis:
+	a) Univariate: One variable is analyzed at a time.
+		eg: what is the height of students in a class.
+	b) Bivariate: Two variables are analyzed together to see if there is any relation between them.
+		eg: what is height of the student and how old is the student.
+	c) Multivariate: More than 2 variable are considered and relation is analyzed among them.
+		eg: What is the height, how old and from which region is the student.
+
+Descriptive Statistics:
+	Central Tendency:
+		1) Mean/Average - Sum of Values/total number of values. Outliers  affect this.
+		2) Mode - maximum repeating(Frequency) value
+		3) Median - Middle value(50th Percentile) of an ordered list of values. Outliers doesn't effect this.

@@ -10,7 +10,7 @@ git init -> initializes a folder to be used in an git environment.
 
 git remote add origin "link to use as origin for git.git"
 
-git clone <repo address> <to clone on folder_name>
+git clone repo_address <to clone on folder_name>
 
 git add . -> adds all the new file in the folder
 
